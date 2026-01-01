@@ -24,6 +24,6 @@ void loop() {
   analogWrite(greenLED,200);
   delay(500);
   analogWrite(greenLED,255);
-  delay(500);
+  delay(400);
 
 }
